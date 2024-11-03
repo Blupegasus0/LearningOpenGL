@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut10VertexPointLighting.dir/Tut_10_Plane_Lights/VertexPointLighting.cpp.o -o Tut10VertexPointLighting  framework/libframework.a glsdk/libglutil.a glsdk/libglimg.a glsdk/libglload.a glsdk/libfreeglut.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so -lX11 

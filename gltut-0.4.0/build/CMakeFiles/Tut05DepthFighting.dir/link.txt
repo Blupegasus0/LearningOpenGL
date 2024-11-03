@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut05DepthFighting.dir/Tut_05_Objects_in_Depth/DepthFighting.cpp.o -o Tut05DepthFighting  framework/libframework.a glsdk/libglutil.a glsdk/libglimg.a glsdk/libglload.a glsdk/libfreeglut.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so -lX11 

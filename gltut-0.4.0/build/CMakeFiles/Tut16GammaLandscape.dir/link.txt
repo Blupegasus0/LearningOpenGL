@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut16GammaLandscape.dir/Tut_16_Gamma_and_Textures/GammaLandscape.cpp.o CMakeFiles/Tut16GammaLandscape.dir/Tut_16_Gamma_and_Textures/LightEnv.cpp.o -o Tut16GammaLandscape  framework/libframework.a glsdk/libglutil.a glsdk/libglimg.a glsdk/libglload.a glsdk/libfreeglut.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so -lX11 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut08GimbalLock.dir/Tut_08_Getting_Oriented/GimbalLock.cpp.o -o Tut08GimbalLock  framework/libframework.a glsdk/libglutil.a glsdk/libglimg.a glsdk/libglload.a glsdk/libfreeglut.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so -lX11 

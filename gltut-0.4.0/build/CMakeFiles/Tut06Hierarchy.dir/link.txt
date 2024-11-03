@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut06Hierarchy.dir/Tut_06_Objects_in_Motion/Hierarchy.cpp.o -o Tut06Hierarchy  framework/libframework.a glsdk/libglutil.a glsdk/libglimg.a glsdk/libglload.a glsdk/libfreeglut.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so -lX11 

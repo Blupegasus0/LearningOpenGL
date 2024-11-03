@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut11GaussianSpecularLighting.dir/Tut_11_Shinies/GaussianSpecularLighting.cpp.o -o Tut11GaussianSpecularLighting  framework/libframework.a glsdk/libglutil.a glsdk/libglimg.a glsdk/libglload.a glsdk/libfreeglut.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so -lX11 

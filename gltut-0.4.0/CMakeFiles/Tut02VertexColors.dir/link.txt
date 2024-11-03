@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut02VertexColors.dir/Tut_02_Playing_with_Colors/VertexColors.cpp.o -o Tut02VertexColors  framework/libframework.a glsdk/libglutil.a glsdk/libglimg.a glsdk/libglload.a glsdk/libfreeglut.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so -lX11 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut02FragPosition.dir/Tut_02_Playing_with_Colors/FragPosition.cpp.o -o Tut02FragPosition  framework/libframework.a glsdk/libglutil.a glsdk/libglimg.a glsdk/libglload.a glsdk/libfreeglut.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so -lX11 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tut04AspectRatio.dir/Tut_04_Objects_at_Rest/AspectRatio.cpp.o -o Tut04AspectRatio  framework/libframework.a glsdk/libglutil.a glsdk/libglimg.a glsdk/libglload.a glsdk/libfreeglut.a /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so -lX11 
